@@ -3,7 +3,7 @@
 Bienvenido/a a mi repositorio,aca te encontraras con un portafolio en el cual he practicado y perfeccionado habilidades,adentrandome cada vez mas en el mundo de la tecnología, soy desarrolladora Front-End (aunque actualmente me estoy formando como Full-Stack).
 :rainbow: Me apasiona aprender y cada dia me enamoro más de todo lo que se puede lograr programando. :rainbow:
 
-`javascript
+```javascript
 const Laura= () => { 
 return TechHabilities = {
     technologies:{
