@@ -11,10 +11,10 @@ Quiero incrementar cada vez mas mi conocimiento y ayudar a quienes quieran apren
 const Laura= () => { 
 return TechHabilities = {
     technologies:{
-        backEnd: ["Nodejs", "Python","Java"],
-        fronEnd: ["Angular","React", "JS vanilla"],
-        database: ["mySql"],   
-        misc: ["Firebase"] 
+        backEnd: ["Nodejs", "Python","Java","Express"],
+        fronEnd: ["Angular","React", "JS vanilla","Vue"],
+        database: ["mySql","mongoDB"],   
+        misc: ["Firebase","Heroku"] 
 }}}
 ```
 <!--
